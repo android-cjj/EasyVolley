@@ -3,13 +3,11 @@ EasyVolley
 
 说明
 ---------------------------------------------------------
-    volley的好处，呵呵，自己百度谷歌。这里想讲的是volley的使用及怎样更简单的使用volley,当然简单是相对于个人来说的，我也只是新手，只是
-学会了怎么用和封装了一些东西让它更容易 ，更有效的使用。。。。。。。
+    volley的好处，呵呵，自己百度谷歌。这里想讲的是volley的使用及怎样更简单的使用volley,当然简单是相对于个人来说的，我也只是新手，只是学会了怎么用和封装了一些东西让它更容易 ，更有效的使用。。。。。。。
 
 例子
 --------------------------------------------------------------
-    这里我写了 "StringRequest的用法" , "JsonRequest的用法" , "imageRequest的用法" , "ImagLoaderRequest的用法" ,"NetworkImageViewRequest的用法" , 
-"XMLRequest的用法"  ,"GsonRequest的用法"，其中“GsonRequest”有做了封装，其他都是官方的使用方法。
+    这里我写了 "StringRequest的用法" , "JsonRequest的用法" , "imageRequest的用法" , "ImagLoaderRequest的用法" ,"NetworkImageViewRequest的用法" , "XMLRequest的用,"GsonRequest的用法"，其中“GsonRequest”有做了封装，其他都是官方的使用方法。
 
 使用
 --------------------------------------------------------------------
@@ -42,7 +40,7 @@ EasyVolley
                 Weather weather = (Weather) data;
 					WeatherInfo weatherInfo = weather.getWeatherinfo();
 					StringBuffer sb = new StringBuffer();
-					sb.append(weatherInfo.getCity()+" "+weatherInfo.getTemp()+"  "+weatherInfo.getTime());
+					sb.append(weatherInfo.getCity()+" "+weatherInfo.getTemp()+" "+weatherInfo.getTime());
 					tv_result.setText(sb.toString());
             }
 
@@ -79,7 +77,7 @@ public class UserDao {
 		return instance;
 	}
 	
-	public void getGsonDataFromNet(Response.CallBackListener<Weather> callBackListener)
+    public void getGsonDataFromNet(Response.CallBackListener<Weather> callBackListener)
     {
         GsonRequest<Weather> mRequest = new GsonRequest<Weather>(Constants.GSON_TEST,Weather.class,callBackListener);
         EasyVolley.addRequest(mRequest, Constants.TAG_REQUEST_GSON);
