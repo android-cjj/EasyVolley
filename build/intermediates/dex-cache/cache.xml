@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\github\EasyVolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\github\EasyVolley\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-75a25185538262b78c6baedde9b53c0be4cf8d54.jar" />
+    </item>
+    <item
+        jar="F:\github\EasyVolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\github\EasyVolley\app\build\intermediates\pre-dexed\debug\classes-bed257fedc35126ef01bfc73c3e12a704a238610.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\github\EasyVolley\app\build\intermediates\pre-dexed\debug\gson-2.2.4-752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar" />
+    </item>
+    <item
+        jar="D:\as\sdk-install\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\github\EasyVolley\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-e4ab783d2d94e1168e29bdd2959cb4ed41b637af.jar" />
+    </item>
+    <item
+        jar="F:\github\EasyVolley\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="F:\github\EasyVolley\app\build\intermediates\pre-dexed\debug\classes-7b095d403c12324a74042c3c04c2bde6ab7b7215.jar" />
+    </item>
+    <item
+        jar="F:\github\EasyVolley\app\build\intermediates\exploded-aar\EasyVolley\VolleyLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f809fcce9ad8d1bd0d93212b7c040bc61a1f5e95">
+        <dex dex="F:\github\EasyVolley\app\build\intermediates\pre-dexed\debug\classes-663ea93a74c9afa21fa3c6638ef9d0b94c0fc7c0.jar" />
+    </item>
+
+</items>
