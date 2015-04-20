@@ -86,8 +86,8 @@ public class UserDao {
 具体用法你可以看代码，很简单的，呵呵。。。。。。
 
 效果图：
-![](http://www.apkbus.com/data/attachment/forum/201504/20/181241hun2w2wn3d22ju2d.gif)
 
+![](http://www.apkbus.com/data/attachment/forum/201504/20/183541n8738038we00vaex.gif)  
 
 
 
